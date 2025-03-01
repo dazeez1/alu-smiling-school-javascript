@@ -1,1 +1,1 @@
-# alu-smiling-school-javascript
+# Scripts for the alu-smiling-school-javascript project
